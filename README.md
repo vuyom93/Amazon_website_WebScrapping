@@ -1,2 +1,2 @@
 # Amazon_website_WebScrapping
-pulling out data from the amazon website using pandas.
+Pulling out data from the Amazon website using Python.
